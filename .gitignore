@@ -122,11 +122,14 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.cnnclassifier
 env/
 venv/
 ENV/
+cnnclassifier/
 env.bak/
 venv.bak/
+cnnclassifier.bak/
 
 # Spyder project settings
 .spyderproject
