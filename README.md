@@ -13,6 +13,7 @@
 9.  Run tox for testing the package
 10. Update dvc.yaml (in place of main.py here in this project we use dvc)
 11. run "dvc repro" for running all the stages in pipeline (i.e. run dvc reproduce command)
+
  
 
-![img](https://raw.githubusercontent.com/Soura10/DeepCnnClassifier/main/docs/images/Data%20Ingestion%402x%20.png)
+![img](https://raw.githubusercontent.com/Soura10/DeepCnnClassifier/main/docs/images/Data%20Ingestion%402x.png)
