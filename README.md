@@ -13,3 +13,4 @@
 9.  Run tox for testing the package
 10. Update dvc.yaml (in place of main.py here in this project we use dvc)
 11. run "dvc repro" for running all the stages in pipeline (i.e. run dvc reproduce command)
+
