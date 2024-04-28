@@ -1,0 +1,1 @@
+from deepclassifier.componets.data_ingestion import DataIngestion
